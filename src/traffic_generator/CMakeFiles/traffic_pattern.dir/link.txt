@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtraffic_pattern.a CMakeFiles/traffic_pattern.dir/traffic_pattern.cc.o CMakeFiles/traffic_pattern.dir/uniform_traffic_pattern.cc.o CMakeFiles/traffic_pattern.dir/log_diagonal_traffic_pattern.cc.o CMakeFiles/traffic_pattern.dir/quasi_diagonal_traffic_pattern.cc.o CMakeFiles/traffic_pattern.dir/diagonal_traffic_pattern.cc.o CMakeFiles/traffic_pattern.dir/traffic_pattern_factory.cc.o
+/usr/bin/ranlib libtraffic_pattern.a

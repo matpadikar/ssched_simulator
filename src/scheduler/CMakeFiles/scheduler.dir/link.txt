@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscheduler.a CMakeFiles/scheduler.dir/scheduler.cc.o CMakeFiles/scheduler.dir/max_weight_scheduler.cc.o CMakeFiles/scheduler.dir/maximal_scheduler.cc.o CMakeFiles/scheduler.dir/qps.cc.o CMakeFiles/scheduler.dir/edge_coloring_batch_scheduler.cc.o CMakeFiles/scheduler.dir/priority_queue.cpp.o CMakeFiles/scheduler.dir/qp_sampler.cpp.o CMakeFiles/scheduler.dir/rr_sampler.cpp.o CMakeFiles/scheduler.dir/scheduler_factory.cc.o
+/usr/bin/ranlib libscheduler.a

@@ -1,0 +1,4 @@
+cmake .. -DCMAKE_TOOLCHAIN_FILE=~/Codes/vcpkg/scripts/buildsystems/vcpkg.cmake
+cmake .. -DCMAKE_TOOLCHAIN_FILE=/usr/local/vcpkg/scripts/buildsystems/vcpkg.cmake 
+
+cmake -B /mnt/d/Github/ssched_simulator/build -S . -DCMAKE_TOOLCHAIN_FILE=/mnt/d/Github/vcpkg/scripts/buildsystems/vcpkg.cmake

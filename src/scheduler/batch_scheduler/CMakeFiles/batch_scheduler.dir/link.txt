@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbatch_scheduler.a CMakeFiles/batch_scheduler.dir/batch_scheduler.cc.o CMakeFiles/batch_scheduler.dir/sb_qps.cc.o CMakeFiles/batch_scheduler.dir/sliding_window_qps.cpp.o CMakeFiles/batch_scheduler.dir/sliding_window_rr.cpp.o
+/usr/bin/ranlib libbatch_scheduler.a

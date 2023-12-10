@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinjection_model.a  CMakeFiles/injection_model.dir/injection_model.cc.o CMakeFiles/injection_model.dir/bernoulli_injection_model.cc.o CMakeFiles/injection_model.dir/onoff_injection_model.cc.o CMakeFiles/injection_model.dir/injection_model_factory.cc.o
+/usr/bin/ranlib libinjection_model.a

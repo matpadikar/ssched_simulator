@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsimulator.a  CMakeFiles/simulator.dir/simulator.cc.o CMakeFiles/simulator.dir/simulator_factory.cc.o
+/usr/bin/ranlib libsimulator.a
